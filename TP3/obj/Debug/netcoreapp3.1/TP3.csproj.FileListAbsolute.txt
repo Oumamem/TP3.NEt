@@ -1,0 +1,15 @@
+C:\Users\oumayma\Source\Repos\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.exe
+C:\Users\oumayma\Source\Repos\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.deps.json
+C:\Users\oumayma\Source\Repos\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.json
+C:\Users\oumayma\Source\Repos\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.runtimeconfig.dev.json
+C:\Users\oumayma\Source\Repos\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.dll
+C:\Users\oumayma\Source\Repos\TP3\TP3\bin\Debug\netcoreapp3.1\TP3.pdb
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.csprojAssemblyReference.cache
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.Liste.resources
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.csproj.GenerateResource.cache
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfoInputs.cache
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.AssemblyInfo.cs
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.csproj.CoreCompileInputs.cache
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.dll
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.pdb
+C:\Users\oumayma\Source\Repos\TP3\TP3\obj\Debug\netcoreapp3.1\TP3.genruntimeconfig.cache
